@@ -1,17 +1,17 @@
-# News Application
+# 📰 News Application
 
 ## Overview
 
-NMIT News is a Python-based desktop application that fetches and displays the latest news articles from BBC News using the NewsAPI. The application provides an intuitive user interface to browse trending news articles along with their images and descriptions. Users can click on links to view the full articles in their web browser.
+This News application is a Python-based desktop application that fetches and displays the latest news articles from BBC News using the NewsAPI. The application provides an intuitive user interface to browse trending news articles along with their images and descriptions. Users can click on links to view the full articles in their web browser.
 
 ## Features
 
-- **Responsive Design**: The application is designed to fit various screen sizes while maintaining usability.
-- **Dark Mode**: A sleek dark theme enhances the reading experience, especially in low-light environments.
-- **Trending News**: Displays the top headlines from BBC News, updated in real-time.
-- **Image Display**: Shows relevant images for each news article to enhance the visual experience.
-- **Article Descriptions**: Provides short descriptions for each article to give users a preview before they read the full content.
-- **Open News in Browser**: Users can easily access full articles in their default web browsers.
+- **Responsive Design**: The application is designed to fit various screen sizes while maintaining usability. 📱💻
+- **Dark Mode**: A sleek dark theme enhances the reading experience, especially in low-light environments. 🌙
+- **Trending News**: Displays the top headlines from BBC News, updated in real-time. 🔥
+- **Image Display**: Shows relevant images for each news article to enhance the visual experience. 🖼️
+- **Article Descriptions**: Provides short descriptions for each article to give users a preview before they read the full content. 📖
+- **Open News in Browser**: Users can easily access full articles in their default web browsers. 🌐
 
 ## Prerequisites
 
@@ -55,3 +55,10 @@ NMIT News is a Python-based desktop application that fetches and displays the la
 - Each article displays its title, image, and description.
 - Click on the "View Full News" button to open the article in your web browser.
 
+## Screenshots
+
+Here are some screenshots of the application:
+
+![Screenshot 1](1.png)  
+
+![Screenshot 2](2.png)  
