@@ -26,8 +26,8 @@ This News application is a Python-based desktop application that fetches and dis
 1. **Clone the Repository**:
    Clone this repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/yourusername/nmit-news-app.git
-   cd nmit-news-app
+   git clone https://github.com/kishorgs/AutoNews.git
+   cd AutoNews
    ```
 
 2. **Install Required Libraries**:
@@ -46,7 +46,7 @@ This News application is a Python-based desktop application that fetches and dis
 4. **Run the Application**:
    You can run the application by executing the following command in your terminal:
    ```bash
-   python app.py
+   python news_auto.py
    ```
 
 ## How to Use
